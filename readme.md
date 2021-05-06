@@ -12,5 +12,4 @@
 ## TODO
 
 1. Research why implicit and explicit awaits are not enough to pass test
-2. More proper pageobject
-3. Dynamic data generation
+2. Dynamic data generation
